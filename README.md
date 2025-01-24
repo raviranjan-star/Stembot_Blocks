@@ -1,5 +1,5 @@
 
-> Open this page at [https://manishuniyalvadactro.github.io/testrepo/](https://manishuniyalvadactro.github.io/testrepo/)
+> Open this page at [https://github.com/raviranjan-star/Stembot_Blocks]
 
 ## Use as Extension
 ### Blink 
@@ -12,17 +12,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/manishuniyalvadactro/testrepo** and import
-
-## Edit this project ![Build status badge](https://github.com/manishuniyalvadactro/testrepo/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/manishuniyalvadactro/testrepo** and click import
-
-
+* search for **https://github.com/raviranjan-star/Stembot_Blocks** and import
 
 #### Metadata (used for search, rendering)
 
